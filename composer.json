@@ -1,0 +1,17 @@
+{
+  "name": "alexsander/to-do",
+  "description": "Home work Epam",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Kopyl Oleksand",
+      "email": "alexsander11115@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Manager\\": "src/"
+    }
+  },
+  "require": {}
+}
